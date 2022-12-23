@@ -18,3 +18,24 @@ A notification will be sent once the download is complete. When a user clicks on
 - Animations
 - MotionLayout
 - Custom Views Canvas
+
+## Screenshots
+
+ ![Screenshot](screenshots/load-app-video.mp4)
+
+
+
+
+
+
+
+
+
+### Udacity Review
+
+ ![Screenshot](screenshots/udacity-review-1.jpg)
+ ![Screenshot](screenshots/udacity-review-2.jpg)
+ ![Screenshot](screenshots/udacity-review-3.jpg)
+ ![Screenshot](screenshots/udacity-review-4.jpg)
+ ![Screenshot](screenshots/udacity-review-5.jpg)
+ ![Screenshot](screenshots/udacity-review-6.jpg)
