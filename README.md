@@ -21,7 +21,7 @@ A notification will be sent once the download is complete. When a user clicks on
 
 ## Screenshots
 
- ![Screenshot](screenshots/load-app-video.mp4)
+
 
 
 
